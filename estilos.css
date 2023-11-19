@@ -1,0 +1,66 @@
+body{
+
+    background-color: #d2e4f5;
+    color: #635a49;
+    font-family: 'Glegoo', serif;
+}
+
+/*Así se pone un comentario*/
+
+h1, p{
+    color: #517d0f;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h3{
+    color: #d8b204;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-shadow: 1px  0px 0px #9a6e56,
+    0px  1px 0px #9a6e56,
+    -1px  0px 0px #9a6e56,
+    0px -1px 0px #9a6e56;
+    padding-left: 5px;
+}
+
+p{
+    padding-left: 10px;
+}
+
+ol, ul{
+    padding-left: 40px;
+}
+
+label{
+    padding-left: 15px;
+}
+
+.img1 {
+   width: 450px;
+   height: 350px;
+   border-style: solid double;
+   border-width: 7px;
+   border-color: #9c9172;
+   padding: 2.5px;
+   margin-left: 10px;
+   margin-bottom: 8px;
+   margin-top: 7px;
+}
+
+.img2 {
+    width: 500px;
+    height: 350px;
+    border-style: inset;
+    border-width: 8px;
+    border-color: #d8b204;
+    padding: 2px;
+    margin-left: 13px;
+}
+
+footer{
+ background-color: rgba(112, 191, 209, 0.532)
+}
+
+small, a{
+    color: rgba(0, 0, 0, 0.6);
+    padding-bottom: 40px;
+}
